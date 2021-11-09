@@ -1,9 +1,9 @@
 
 ### Hi there 👋
-Youssef's name is 25 years old, web and mobile app programmer since 2017
+<!-- Youssef's name is 25 years old, web and mobile app programmer since 2017
 My first experience was with html css js was done in php and then i moved to kotlin average in it
 Now create websites using vuejs nodejs and apps in dart language and flutter technology
-  I deal with databases using both mysql and mongodb and I also deal with firebase
+  I deal with databases using both mysql and mongodb and I also deal with firebase -->
 <!--
 **youssefelhaimer8/youssefelhaimer8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
