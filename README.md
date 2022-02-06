@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=youssefelhaimer8&count_private=true&show_icons=true&theme=vue-dark"/>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=yoelhaim)](https://github.com/mohouyizme/1337-readme)
+
 <!-- <div>
 <img width="100px"  src="https://user-images.githubusercontent.com/30368947/116008714-6e451300-a605-11eb-8111-07e7b5df6e5d.jpg"/>
 <img width="100px" src="https://user-images.githubusercontent.com/30368947/116008606-ff67ba00-a604-11eb-9f20-567d31eb166c.jpeg"/>
