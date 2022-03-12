@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=yoelhaim&count_private=true&show_icons=true&theme=vue-dark"/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?yoelhaim=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <div>
 <img width="100px"  src="https://user-images.githubusercontent.com/30368947/116008714-6e451300-a605-11eb-8111-07e7b5df6e5d.jpg"/>
