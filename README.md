@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=yoelhaim&count_private=true&show_icons=true&theme=vue-dark"/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelhaim&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-khadiri" /> </p>
-<p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=yoelhaim" alt="yassine-khadiri" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelhaim&label=Profile%20views&color=0e75b6&style=flat" alt="yoelhaim" /> </p><br/>
+<p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=yoelhaim" alt="yoelhaim" /></a> </p>
 
 <!-- <div>
 <img width="100px"  src="https://user-images.githubusercontent.com/30368947/116008714-6e451300-a605-11eb-8111-07e7b5df6e5d.jpg"/>
