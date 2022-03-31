@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![yoelhaim's 42 stats](https://badge.mediaplus.ma/landscapes/yoelhaim)](https://github.com/oakoudad/badge42)
+
 <img src="https://github-readme-stats.vercel.app/api?username=yoelhaim&count_private=true&show_icons=true&theme=vue-dark"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoelhaim&label=Profile%20views&color=0e75b6&style=flat" alt="yoelhaim" /> </p><br/>
 <p align="center"> <a ><img src="https://github-profile-trophy.vercel.app/?username=yoelhaim" alt="yoelhaim" /></a> </p><br/>
