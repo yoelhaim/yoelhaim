@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&&
+
 
 [![yoelhaim's 42 stats](https://badge.mediaplus.ma/levi/yoelhaim)](https://github.com/oakoudad/badge42)
 
